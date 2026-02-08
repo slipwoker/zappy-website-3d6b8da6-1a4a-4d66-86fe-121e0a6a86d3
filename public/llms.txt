@@ -1,0 +1,53 @@
+# DrSkin — Generative Engine Optimization Map
+
+> A medical/healthcare business.
+
+---
+
+## Pages
+
+### Home
+https://drskin-3d6b8da6.zappy5.app
+
+### Services
+https://drskin-3d6b8da6.zappy5.app/services
+
+### About
+https://drskin-3d6b8da6.zappy5.app/about
+
+### Contact
+https://drskin-3d6b8da6.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://drskin-3d6b8da6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://drskin-3d6b8da6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://drskin-3d6b8da6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DrSkin
+DrSkin is a business in the medical/healthcare industry.
+
+## Target Audience
+- Affluent Aesthetic Seekers
+
+## Industry
+medical/healthcare
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://drskin-3d6b8da6.zappy5.app/sitemap.xml
+- **Robots.txt**: https://drskin-3d6b8da6.zappy5.app/robots.txt

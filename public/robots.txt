@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drskin-3d6b8da6.zappy5.app/sitemap.xml
